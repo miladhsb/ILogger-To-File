@@ -1,13 +1,1 @@
-Information: 7/14/2022 6:57:39 PM Worker running at: 07/14/2022 18:57:39 +04:30
-Information: 7/14/2022 6:57:39 PM Application started. Press Ctrl+C to shut down.
-Information: 7/14/2022 6:57:39 PM Hosting environment: Development
-Information: 7/14/2022 6:57:39 PM Content root path: C:\Users\milad_lenovo\source\Workspaces\WorkerService1\WorkerService1
-Information: 7/14/2022 6:57:40 PM Worker running at: 07/14/2022 18:57:40 +04:30
-Information: 7/14/2022 6:57:41 PM Worker running at: 07/14/2022 18:57:41 +04:30
-Information: 7/14/2022 6:57:42 PM Worker running at: 07/14/2022 18:57:42 +04:30
-Information: 7/14/2022 6:57:43 PM Worker running at: 07/14/2022 18:57:43 +04:30
-Information: 7/14/2022 6:57:44 PM Worker running at: 07/14/2022 18:57:44 +04:30
-Information: 7/14/2022 6:57:45 PM Worker running at: 07/14/2022 18:57:45 +04:30
-Information: 7/14/2022 6:57:46 PM Worker running at: 07/14/2022 18:57:46 +04:30
-Information: 7/14/2022 6:57:47 PM Worker running at: 07/14/2022 18:57:47 +04:30
-Information: 7/14/2022 6:57:48 PM Worker running at: 07/14/2022 18:57:48 +04:30
+
